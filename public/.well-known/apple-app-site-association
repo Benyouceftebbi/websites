@@ -1,0 +1,50 @@
+{
+    "applinks": {
+        "details": [
+             {
+              "appIDs": ["2ADJ5WMYAN.com.benyoucef.softwaremanagementsystemmvp"],
+               "components": [
+                {
+                  "/": "/app/(app)/(tabs)/*",
+                  "?": { "id": "????????????????????" }
+ 
+               },
+              
+                 {
+                    "/": "/Classes/*",
+                    "?": { "id": "????????????????????" }
+
+                 },
+                 {
+                  "/": "/Classes/[ClassDetails]/*",
+                  "?": { "id": "????????????????????" }
+     
+               },
+                 {
+                    "/": "/Competitions/*",
+                    "?": { "id": "????????????????????" }
+      
+                 },
+                 {
+                  "/": "/SpecialOffers/*",
+                  "?": { "id": "????????????????????" }
+
+               },   
+               {
+                "/": "/two/*",
+                "?": { "id": "????????????????????" }
+
+             }
+               ]
+             }
+         ]
+     },
+     "webcredentials": {
+        "apps": [ "2ADJ5WMYAN.com.benyoucef.softwaremanagementsystemmvp" ]
+     },
+  
+  
+      "appclips": {
+          "apps": ["2ADJ5WMYAN.com.benyoucef.softwaremanagementsystemmvp"]
+      }
+  }
